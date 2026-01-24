@@ -1,0 +1,2 @@
+create a simple react todo list component. use react hooks, have an input field to add todos, and a button to delete each todo. keep it simple. install node.js if necesary.
+initialize a git repo and commit this todo list component.
