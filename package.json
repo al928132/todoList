@@ -1,6 +1,7 @@
 {
   "name": "claude-test",
-  "homepage": "https://al928132.github.io/todoList/"version": "1.0.0",
+  "homepage": "https://al928132.github.io/todoList/,
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
